@@ -16,6 +16,9 @@
 }
 .leaflet-container {
   overflow: hidden;
+  background-image: url(https://cdn.discordapp.com/attachments/950934814855397397/1055535496396296312/2672881.jpg);
+  background-size: cover;
+  background-position: center center;
 }
 .leaflet-tile,
 .leaflet-marker-icon,
